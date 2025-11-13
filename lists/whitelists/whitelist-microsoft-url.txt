@@ -1,0 +1,69 @@
+# Microsoft/Windows/Office Connectivity & Update Domains
+www.msftncsi.com
+msftncsi.com
+www.msftconnecttest.com
+ctldl.windowsupdate.com
+download.windowsupdate.com
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+tlu.dl.delivery.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+licensing.mp.microsoft.com
+licensing.md.mp.microsoft.com
+go.microsoft.com
+c.s-microsoft.com
+i.s-microsoft.com
+officeclient.microsoft.com
+products.office.com
+outlook.office365.com
+nexus.officeapps.live.com
+nexusrules.officeapps.live.com
+v10.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+s.gateway.messenger.live.com
+client-s.gateway.messenger.live.com
+
+# Microsoft Account/Login
+login.live.com
+login.microsoftonline.com
+account.live.com
+signup.live.com
+clientconfig.passport.net
+g.live.com
+
+# Xbox Live (for full functionality)
+xbox.ipv6.microsoft.com
+device.auth.xboxlive.com
+title.mgt.xboxlive.com
+xsts.auth.xboxlive.com
+title.auth.xboxlive.com
+attestation.xboxlive.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+cert.mgt.xboxlive.com
+xkms.xboxlive.com
+def-vef.xboxlive.com
+notify.xboxlive.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
+eds.xboxlive.com
+www.xboxlive.com
+arc.msn.com
+activity.windows.com
+
+# Skype
+ui.skype.com
+pricelist.skype.com
+apps.skype.com
+m.hotmail.com
+
+# RegEx based
+
+
+# Others
+mobile.pipe.aria.microsoft.com
+c.bing.com
+c.msn.com
+click.redditmail.com
