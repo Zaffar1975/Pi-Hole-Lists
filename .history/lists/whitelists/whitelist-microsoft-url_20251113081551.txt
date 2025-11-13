@@ -1,10 +1,3 @@
-# Title: Zaffar1975/Pi-Hole-Lists/whitelist-microsoft-url.txt
-#
-# This file contains all the domains related to microsoft that
-# need to be treated as Whitelist domains.
-#
-# ===============================================================
-
 # Microsoft/Windows/Office Connectivity & Update Domains
 www.msftncsi.com
 msftncsi.com

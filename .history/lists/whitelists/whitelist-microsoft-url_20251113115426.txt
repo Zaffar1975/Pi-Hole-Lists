@@ -1,7 +1,14 @@
-# Title: Zaffar1975/Pi-Hole-Lists/whitelist-microsoft-url.txt
+# Title: Zaffar1975/Pi-Hole-Lists
 #
-# This file contains all the domains related to microsoft that
-# need to be treated as Whitelist domains.
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 12 November 2025 02:22:52 (UTC)
+# Number of unique domains: 107,069
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
 #
 # ===============================================================
 
