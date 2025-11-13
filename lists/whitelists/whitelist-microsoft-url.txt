@@ -67,11 +67,10 @@ apps.skype.com
 m.hotmail.com
 
 # RegEx based
-$$(\.|^)redditmail\.com$$
 
 
 # Others
 mobile.pipe.aria.microsoft.com
 c.bing.com
 c.msn.com
-# click.redditmail.com
+click.redditmail.com
