@@ -68,7 +68,6 @@ m.hotmail.com
 
 # RegEx based
 
-
 # Others
 mobile.pipe.aria.microsoft.com
 c.bing.com
